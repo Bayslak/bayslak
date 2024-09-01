@@ -18,9 +18,9 @@ I'm Bayslak, a passionate developer who loves to code, create, and sometimes eve
 
 [![Codewars](https://www.codewars.com/users/Bayslak/badges/large)](https://www.codewars.com/users/Bayslak)
 
-<!-- ## 📈 GitHub Stats
+## 📈 GitHub Stats
 
-![Bayslak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bayslak&show_icons=true&theme=radical) -->
+![Bayslak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bayslak&show_icons=true&theme=radical)
 
 <!--
 **Bayslak/bayslak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
